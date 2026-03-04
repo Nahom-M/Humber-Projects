@@ -24,12 +24,6 @@ npm install express-session
 npm install connect-mongo
 npm install jsonwebtoken
 
-.env
-PORT = 5000
-MONGODB_CART = mongodb+srv://nahommese:temppass@cluster0.vwoj6.mongodb.net/cart
-VITE_SERVER_URL=http://localhost:5000/
-JWT_SECRET=ewiur4729yeydsfsd
-
 CLIENT
 npm create vite@latest .
 npm install
